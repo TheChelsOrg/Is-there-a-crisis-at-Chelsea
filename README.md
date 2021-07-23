@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because the secret footballer lies
+because Gary Cahill drops off
 <!-- crisis_item ends -->
 
 ---
