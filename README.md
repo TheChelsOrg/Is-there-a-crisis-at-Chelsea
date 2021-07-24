@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Gary Cahill drops off
+because no top players from our youth system
 <!-- crisis_item ends -->
 
 ---
