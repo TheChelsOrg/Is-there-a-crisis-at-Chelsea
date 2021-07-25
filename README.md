@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because no top players from our youth system
+because Ben Smith asks stupid questions
 <!-- crisis_item ends -->
 
 ---
