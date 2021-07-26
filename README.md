@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ben Smith asks stupid questions
+because drawing 5 games in a row in 2018
 <!-- crisis_item ends -->
 
 ---
