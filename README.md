@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because starting the season W3 D2 L6
+because interest in Andy Carroll
 <!-- crisis_item ends -->
 
 ---
