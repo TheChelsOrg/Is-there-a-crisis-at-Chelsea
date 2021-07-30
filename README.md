@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because interest in Andy Carroll
+because John Terry
 <!-- crisis_item ends -->
 
 ---
