@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because John Terry
+because losing 0-3 at home to Bournemouth
 <!-- crisis_item ends -->
 
 ---
