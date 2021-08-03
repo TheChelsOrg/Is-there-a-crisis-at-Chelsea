@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we did not sign Paul Pogba
+because Cesc Fabregas stopped assisting
 <!-- crisis_item ends -->
 
 ---
