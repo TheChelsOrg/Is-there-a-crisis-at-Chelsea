@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cesc Fabregas stopped assisting
+because Diego Costa has self control (unlike Gabriel)
 <!-- crisis_item ends -->
 
 ---
