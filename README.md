@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa has self control (unlike Gabriel)
+because VAR does not like Chelsea
 <!-- crisis_item ends -->
 
 ---
