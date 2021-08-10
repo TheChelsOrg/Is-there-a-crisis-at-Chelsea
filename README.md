@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because transfer window
+because Adrian Mutu
 <!-- crisis_item ends -->
 
 ---
