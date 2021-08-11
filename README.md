@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Adrian Mutu
+because Paris Metro
 <!-- crisis_item ends -->
 
 ---
