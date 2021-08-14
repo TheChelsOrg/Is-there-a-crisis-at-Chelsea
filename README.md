@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because results
+because swearing at Roberto Martinez
 <!-- crisis_item ends -->
 
 ---
