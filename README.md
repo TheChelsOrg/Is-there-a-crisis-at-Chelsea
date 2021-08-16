@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because David Luiz joined Arsenal
+because Jon Fearn
 <!-- crisis_item ends -->
 
 ---
