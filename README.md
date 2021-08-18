@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Wayne Bridge
+because no top players from our youth system
 <!-- crisis_item ends -->
 
 ---
