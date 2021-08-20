@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because right to light
+because Adrian Mutu
 <!-- crisis_item ends -->
 
 ---
