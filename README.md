@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Adrian Mutu
+because signing a player from Reading
 <!-- crisis_item ends -->
 
 ---
