@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because signing a player from Reading
+because we switched to 3-4-3
 <!-- crisis_item ends -->
 
 ---
