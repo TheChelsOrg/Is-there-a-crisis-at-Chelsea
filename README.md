@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because starting the season W3 D2 L6
+because Ken Bates wanted electric fences
 <!-- crisis_item ends -->
 
 ---
