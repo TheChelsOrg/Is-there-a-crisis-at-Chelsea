@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because Bakayoko red card and losing 4-1 to Watford
 <!-- crisis_item ends -->
 
 ---
