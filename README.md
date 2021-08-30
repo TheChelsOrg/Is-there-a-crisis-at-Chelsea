@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we haven't announced kai yet
+because shit players are less shit when on loan overseas
 <!-- crisis_item ends -->
 
 ---
