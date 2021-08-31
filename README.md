@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because shit players are less shit when on loan overseas
+because recalling home-grown loan players to add to first team
 <!-- crisis_item ends -->
 
 ---
