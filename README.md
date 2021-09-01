@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because recalling home-grown loan players to add to first team
+because ticket prices
 <!-- crisis_item ends -->
 
 ---
