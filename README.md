@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Michy scored 5 goals in 3 games for Dortmund
+because referees
 <!-- crisis_item ends -->
 
 ---
