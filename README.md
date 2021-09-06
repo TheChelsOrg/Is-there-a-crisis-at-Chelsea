@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because player would rather lose than win for Mourinho
 <!-- crisis_item ends -->
 
 ---
